@@ -1,2 +1,3 @@
-# Using-Devtools
-n this activity we will learn how to use Devtools to explore / interact with a simple website
+#DevTools Activity for Mozilla Campus Clubs program
+
+[Check the activity here](https://mozillacampusclubs.github.io/Using-Devtools/) 
